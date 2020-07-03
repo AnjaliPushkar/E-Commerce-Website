@@ -1,6 +1,11 @@
 {% extends 'shop/basic.html' %}
 
 {% block title%} {{product.product_name}} - My Awesome Cart{% endblock %}
+{% block css %}
+body{
+    background: linear-gradient(to right, #336699 0%, #ccccff 100%);
+}
+{% endblock %}
 {% block body %}
 <div class="container my-4">
     <div class="row">
