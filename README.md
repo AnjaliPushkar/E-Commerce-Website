@@ -11,3 +11,51 @@ This website will help you while online shopping. You can search the products, o
      `python manage.py makemigrations`\
      `python manage.py migrate`\
      `python manage.py runserver`
+
+
+     ## Screenshots of Web Application
+
+
+     <table align="center">
+     <tr>
+         <td>
+        			Homepage
+         </td>
+          <td>
+          		AboutUs
+          </td>
+     </tr>
+     <tr>
+          <td>
+              <img src="homepage.JPG" height="180" width="350">
+          	</td>
+          	<td>
+              <img src="aboutus.JPG" height="180" width="350">
+          	</td>
+     </tr>
+     <tr>
+           <td>
+          		  Blogs
+          	</td>
+          	<td>
+          			ContactUs
+          	</td>
+     </tr>
+     <tr>
+          	<td><img src="blog2.JPG" height="180" width="350">
+          	</td>
+          	<td><img src="contactus.JPG" height="180" width="350">
+          	</td>
+     </tr>
+     <tr>
+           <td>
+              Tracker
+           </td>
+     </tr>
+     <tr>
+          <td><img src="tracker.JPG" height="180" width="350">
+          </td>
+     </tr>
+
+
+     </table>
